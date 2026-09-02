@@ -33,8 +33,8 @@ CREATE TABLE IF NOT EXISTS grades (
 INSERT INTO students
 (name, email, phone, course, semester)
 VALUES
-('Nikita Chavan',
- 'nikita@example.com',
+('Test Student',
+ 'test@example.com',
  '9876543210',
  'Computer Engineering',
  5);
